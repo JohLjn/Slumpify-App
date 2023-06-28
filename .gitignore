@@ -1,4 +1,5 @@
 node_modules/
+SuperSecret.js
 .expo/
 dist/
 npm-debug.*
